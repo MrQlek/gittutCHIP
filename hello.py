@@ -5,7 +5,7 @@ def main():
     elif(name == 'Hans'):
         print("Gutten tag!")
     else:
-        print("Hello!")
+        print("Hello!!!")
 
 if __name__ == '__main__':
     main()
