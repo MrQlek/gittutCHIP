@@ -1,4 +1,5 @@
 def main():
+    #hello program
     name = input("Give name: ")
     if(name == 'Jan'):
         print("Witaj!")
