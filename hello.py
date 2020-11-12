@@ -4,6 +4,8 @@ def main():
         print("Witaj!")
     elif(name == 'Joaqin'):
         print("Hei!")
+    elif(name == 'Hans'):
+        print("Gutten tag!")
     else:
         print("Hello!")
 
