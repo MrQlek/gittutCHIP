@@ -2,6 +2,8 @@ def main():
     name = input("Give name: ")
     if(name == 'Jan'):
         print("Witaj!")
+    elif(name == 'Hans'):
+        print("Gutten tag!")
     else:
         print("Hello!")
 
