@@ -3,7 +3,7 @@ def main():
     name = input("Give name: ")
     if(name == 'Jan'):
         print("Witaj!")
-    elif(name == 'Joaqin'):
+    elif(name == 'Joaqinn'):
         print("Hei!")
     elif(name == 'Hans'):
         print("Gutten tagg!")
