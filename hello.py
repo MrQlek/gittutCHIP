@@ -8,7 +8,7 @@ def main():
     elif(name == 'Hans'):
         print("Gutten tag!")
     elif(name == 'Krecik'):
-        print('Ahoi!!!')
+        print('Ahoi!!!!')
     else:
         print("Hello!!!")
 
