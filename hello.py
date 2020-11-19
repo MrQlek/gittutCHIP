@@ -2,7 +2,7 @@ def main():
     #hello program
     name = input("Give nnamee: ")
     if(name == 'Jan'):
-        print("Witaj!")
+        print("Witajj!")
     elif(name == 'Joaqinn'):
         print("Hei!")
     elif(name == 'Hans'):
