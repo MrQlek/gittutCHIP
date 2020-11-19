@@ -1,6 +1,6 @@
 def main():
     #hello program
-    name = input("Give name: ")
+    name = input("Give namee: ")
     if(name == 'Jan'):
         print("Witaj!")
     elif(name == 'Joaqinn'):
