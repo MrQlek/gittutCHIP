@@ -6,7 +6,7 @@ def main():
     elif(name == 'Joaqin'):
         print("Hei!")
     elif(name == 'Hans'):
-        print("Gutten tag!")
+        print("Gutten tagg!")
     elif(name == 'Krecik'):
         print('Ahoi!!!!')
     else:

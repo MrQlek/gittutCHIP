@@ -1,0 +1,4 @@
+*.txt
+folder/3.jpg
+!notes.txt
+
